@@ -1,0 +1,1 @@
+<project xmlns="http://maven.apache.org/POM/4.0.0"><modelVersion>4.0.0</modelVersion><groupId>io.github.kajimi16.ohmyhita</groupId><artifactId>plugin-eas-headless</artifactId><version>12</version><packaging>aar</packaging><name>EAS headless data/services</name></project>
