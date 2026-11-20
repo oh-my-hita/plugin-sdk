@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 https://maven.apache.org/xsd/maven-4.0.0.xsd">
+  <modelVersion>4.0.0</modelVersion>
+  <groupId>io.github.kajimi16.ohmyhita</groupId><artifactId>plugin-api</artifactId><version>10.1</version><packaging>aar</packaging><name>OH-MY-HITA plugin-api</name>
+  <dependencies>
+    <dependency><groupId>io.github.kajimi16.ohmyhita</groupId><artifactId>plugin-model</artifactId><version>10.1</version></dependency>
+    <dependency><groupId>io.github.kajimi16.ohmyhita</groupId><artifactId>plugin-component</artifactId><version>10.1</version></dependency>
+    <dependency><groupId>org.jetbrains.kotlin</groupId><artifactId>kotlin-stdlib</artifactId><version>1.9.24</version></dependency>
+    <dependency><groupId>androidx.lifecycle</groupId><artifactId>lifecycle-livedata-core</artifactId><version>2.8.4</version></dependency>
+    <dependency><groupId>androidx.fragment</groupId><artifactId>fragment</artifactId><version>1.6.2</version></dependency>
+    <dependency><groupId>com.google.code.gson</groupId><artifactId>gson</artifactId><version>2.8.9</version></dependency>
+  </dependencies>
+</project>
