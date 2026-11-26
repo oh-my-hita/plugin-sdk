@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://maven.apache.org/POM/4.0.0"><modelVersion>4.0.0</modelVersion><groupId>io.github.kajimi16.ohmyhita</groupId><artifactId>plugin-sdk</artifactId><version>14</version><packaging>pom</packaging><dependencies>
+<dependency><groupId>io.github.kajimi16.ohmyhita</groupId><artifactId>plugin-api</artifactId><version>14</version></dependency>
+<dependency><groupId>io.github.kajimi16.ohmyhita</groupId><artifactId>plugin-model</artifactId><version>14</version></dependency>
+<dependency><groupId>io.github.kajimi16.ohmyhita</groupId><artifactId>plugin-component</artifactId><version>14</version></dependency>
+</dependencies></project>
